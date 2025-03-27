@@ -1,3 +1,4 @@
 grobbles.json
 tokens.json
 *.env
+data/
